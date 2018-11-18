@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Views/MMSE/AnimalDragging.unity
+  isLoaded: 1
+  isActive: 1
