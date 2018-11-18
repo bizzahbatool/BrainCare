@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlzymerApp", "AlzymerApp.csproj", "{301D11B1-1DCE-E0FB-0715-837C17447BD3}"
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{317559D9-B35A-2688-1929-BB2F3CD34504}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{301D11B1-1DCE-E0FB-0715-837C17447BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{301D11B1-1DCE-E0FB-0715-837C17447BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{301D11B1-1DCE-E0FB-0715-837C17447BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{301D11B1-1DCE-E0FB-0715-837C17447BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317559D9-B35A-2688-1929-BB2F3CD34504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317559D9-B35A-2688-1929-BB2F3CD34504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317559D9-B35A-2688-1929-BB2F3CD34504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317559D9-B35A-2688-1929-BB2F3CD34504}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

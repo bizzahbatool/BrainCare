@@ -91,7 +91,7 @@ public class MemoryTrainBehaviour : MonoBehaviour
             case "Triangle":
                 return Triangle;
         }
-        return new Sprite();
+        return null;
     }
 
     private void UpdateTexts(bool TypeQuestion)

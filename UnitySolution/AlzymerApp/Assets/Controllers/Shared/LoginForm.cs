@@ -46,6 +46,7 @@ namespace UnityApp
                 {
                     ds.CreateSession(UserName);
                     Debug.Log(string.Format("Login Succefull"));
+                    Debug.Log("checking git commit");
                     SceneManager.LoadScene((int)ScreensScenes.Screen1Menu);
                 }
                 else

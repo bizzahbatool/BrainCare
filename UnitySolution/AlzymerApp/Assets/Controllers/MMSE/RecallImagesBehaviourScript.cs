@@ -120,6 +120,6 @@ public class RecallImagesBehaviourScript : MonoBehaviour
             case "Bottle":
                 return Bottle;
         }
-        return new Sprite();
+        return null;
     }
 }

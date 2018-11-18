@@ -138,7 +138,7 @@ public class NameObjectBehaviourScript : MonoBehaviour
             case "Bottle":
                 return Bottle;
         }
-        return new Sprite();
+        return null;
     }
 
     private string RandomString()
